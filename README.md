@@ -1,6 +1,6 @@
 # Dango
 
-This is your story.testああああああああ
+This is your story.test
 
 
 ## Run in development mode
