@@ -1,6 +1,7 @@
 # Dango
 
-This is your story.
+This is your story.testああああああああ
+
 
 ## Run in development mode
 
